@@ -1,6 +1,6 @@
 # Deploy your Express.js to Vercel <br/>
 
-#### [Preview](https://vercel-rest-api-clqu.vercel.app/)
+#### [Preview](https://vercel-rest-api-clqu.vercel.app)
 
 ## Getting Started
 
