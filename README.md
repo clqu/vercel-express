@@ -1,4 +1,4 @@
-# Deploy the Vercel your Express.js<br/>
+# Deploy your Express.js to Vercel <br/>
 
 #### [Preview](https://vercel-rest-api-clqu.vercel.app/)
 
